@@ -1,11 +1,12 @@
 QC Murphy
 9-13-25
 
-Tool for quick viewing of video files. Made in MaxMSP.
+Load video files and generate audio waveforms quickly. Made in MaxMSP.
 
 Drag folder into window, or select from button on top-left.
 
-HOTKEYS:
+
+Hotkeys:
 
 S: Jump 5% forward
 
